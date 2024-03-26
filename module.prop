@@ -1,0 +1,6 @@
+id=barshow
+name=显示状态栏
+version=v1.4
+versionCode=19
+author=si1vr.github.io，_Forward_
+description=仅在安卓8.1方案阿尔郎s12单词笔上适配，不保证厂商阉割而失效。优化了动态实现形式，现在应该不卡开机了，也加了防卡脚本。缺点是仅使用此安装包安装模块。
